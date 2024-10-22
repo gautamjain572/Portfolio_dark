@@ -1,7 +1,7 @@
 import React from 'react'
 import './About.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
-import profile_img from '../../assets/about_profile.svg'
+import profile_img from '../../assets/profile.png'
 
 const About = () => {
   return (
@@ -50,7 +50,6 @@ const About = () => {
           <h1>2+</h1>
           <p>HAPPY CLIENTS</p>
         </div>
-        <hr />
       </div>
     </div>
   )
