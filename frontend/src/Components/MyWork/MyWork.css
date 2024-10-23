@@ -61,30 +61,30 @@
 @media(max-width:768px){
     .mywork{
         gap: 50px;
-        margin: 50px 70px;
+        margin: 50px 6%;
         align-items: start;
     }
     .mywork-title h1{
         font-weight: 600;
-        font-size: 50px;
+        font-size: 40px;
         padding: 0px;
     }
     .mywork-title img{
-        width: 130px;
-        margin-right: -20px;
+        width: 100px;
+        margin-right: -40px;
     }
     .my-work{
         grid-template-columns: 1fr 1fr;
-        gap: 30px;
+        gap: 20px;
     }
     .my-work img{
         width: 100%;
         height: 100%;
     }
     .mywork-showmore{
-        padding: 20px 40px;
-        font-size: 18px;
-        margin: 50px auto;
+        padding: 15px 30px;
+        font-size: 16px;
+        margin: 10px auto;
         cursor: pointer;
     }
 }

@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="footer-top">
             <div className="footer-top-left">
                 <img src={logo} alt="" />
-                <p>I am a frontend developer from, USA with 10 years of experience in companies like Microsoft, Tesla and Apple.</p>
+                <p>I am a frontend developer from, India with 2 years of experience in companies like Legend Group and Globex Consulting.</p>
             </div>
             <div className="footer-top-right">
                 <div className="footer-email-input">
@@ -23,7 +23,7 @@ const Footer = () => {
         </div>
         <hr />
         <div className='footer-bottom'>
-            <p className='footer-bottom-left'>© 2023 Alex Bennett. All rights reserved.</p>
+            <p className='footer-bottom-left'>© 2023 Gautam Jain. All rights reserved.</p>
             <div className="footer-bottom-right">
                 <p>Term of Services</p>
                 <p>Privacy Policy</p>

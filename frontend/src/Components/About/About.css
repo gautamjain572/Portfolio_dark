@@ -101,17 +101,17 @@
 
 @media(max-width:768px){
     .about{
-        gap: 80px;
-        margin: 50px 70px;
+        gap: 50px;
+        margin: 50px 6%;
         align-items: start;
     }
     .about-title h1{
-        font-size: 50px;
+        font-size: 40px;
         padding: 0px;
     }
     .about-title img{
-        width: 130px;
-        right: -20px;
+        width: 100px;
+        right: -40px;
     }
     .about-section{
         flex-direction: column;
@@ -121,14 +121,15 @@
     }
     .about-para{
         font-size: 18px;
-        line-height: 32px;
+        line-height: 25px;
     }
     .about-skill{
         gap: 20px;
         align-items: center;
     }
     .about-skill p{
-        font-size: 20px;
+        font-size: 16px;
+        min-width: 90px;
     }
     .about-skill hr{
         height: 6px;
@@ -140,12 +141,12 @@
         gap: 10px;
     }
     .about-achi h1{
-        font-size: 34px;
+        font-size: 28px;
         font-weight: 700;
     }
     .about-achi p{
         text-align: center;
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 
